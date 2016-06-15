@@ -1,4 +1,2 @@
 Hi Git!
 This is test file.
-
-Updated the test file.
