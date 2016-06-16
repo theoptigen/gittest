@@ -1,3 +1,5 @@
 File for testing branch and merge in Git.
 
-Created this file in master after craeting the branch 'testing' and then pulled it to the branch. 
+Created this file in master after craeting the branch 'testing' and then pulled it to the branch.
+
+Merged the branch new_branch with master and deleted it. Now commiting this file from the barnch testing and will merge this too. 
