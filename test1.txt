@@ -1,1 +1,1 @@
-File for testing branch and merge in Git.
+File for testing branch and merge in Git. Editing from another branch 'new-branch'.
