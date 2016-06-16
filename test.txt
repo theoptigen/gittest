@@ -2,3 +2,6 @@ Hi Git!
 This is test file.
 
 Updated the test file.
+
+
+Added from the new test branch and trying to merge this branch.
