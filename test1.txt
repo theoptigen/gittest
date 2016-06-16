@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 File for testing branch and merge in Git. Editing from another branch 'new-branch'.
-=======
+
 Created this file in master after creating the branch 'testing' and then pulled it to the branch.
 
 Merged the branch new_branch with master and deleted it. Now commiting this file from the barnch testing and will merge this too. 
->>>>>>> testing
